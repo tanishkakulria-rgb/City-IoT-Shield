@@ -1,0 +1,9 @@
+[
+    {
+        "Time": "2026-10-24 14:10:45",
+        "Device": "Traffic Camera 01",
+        "Event": "Unusual network traffic detected",
+        "Severity": "HIGH",
+        "Recommended Action": "Investigate network logs"
+    }
+]
